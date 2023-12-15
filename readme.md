@@ -1,4 +1,4 @@
-# Project Name
+# Simple CRUD 
 
 ## Overview
 
@@ -8,7 +8,8 @@ Brief description of your project and its purpose.
 
 - Python
 - Django
-- [Any other relevant technologies]
+- HTML
+- MongoDB
 
 ## Features
 
